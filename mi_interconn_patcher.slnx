@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mi_interconn_patcher.vcxproj" Id="1ca024a3-916f-4a10-932b-7b75876a0bb8" />
+</Solution>
