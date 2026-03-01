@@ -2,6 +2,8 @@
 
 破解补丁，让小米互连服务可以在 Windows 10 上安装。
 
+[获取针对小米互联服务在Windows10上的体验修复补丁](https://github.com/DannerTomas/Mi.Interconn.Hotfix)
+
 ![Example](images/example.png)
 
 ### Features
